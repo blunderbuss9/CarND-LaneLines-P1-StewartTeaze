@@ -35,7 +35,7 @@ The goals / steps of this project are:
 #### Following are the required test output images, with lane lines overlayed: 
 
 NOTE: All of the test input images and videos, as well as the test output images and videos from the pipeline,
-have been included in the GitHub repository for this project, in the required directories.
+have been included in the GitHub repository for this project, in the required subdirectories.
 
 solidWhiteRight.jpg:
 ![solidWhiteRight.jpg](./test_images_output/solidWhiteRight.jpg)
