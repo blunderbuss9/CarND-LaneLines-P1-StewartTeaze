@@ -22,3 +22,8 @@ This will result in:
 (See file writeup.md, for more information)
 
 ### Project Overview
+The goals / steps of this project are:
+ 1) Create a pipeline (written in the Python programming language, and implemented using the Jupyter Notebook environment)
+    that finds lane lines on the road and displays those detected lane lines, by overlaying the resulting lane lines on
+    test input images and videos of various road driving scenarios, containing various types of lane lines.
+ 2) Reflect on your work in a written report
